@@ -1,4 +1,4 @@
-from psychopy import visual, event, core
+from PsychoPy import visual, event, core
 import pdb
 import math
 import numpy as np
